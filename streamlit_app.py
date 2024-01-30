@@ -1,1 +1,2 @@
-created the main python file 
+import streamlit
+streamlit.tilltle('my parents new healthly dinner')
